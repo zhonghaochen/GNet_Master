@@ -1,5 +1,5 @@
 # GNet_Master
-Submitting to IEEE TCSVT!
+Submitting to IEEE GRSL!
 ----------
 ## Zhonghao Chen, Danfeng Hong, Hongmin Gao
 ----------
