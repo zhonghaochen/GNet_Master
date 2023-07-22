@@ -1,9 +1,8 @@
-# GNet_Master
-Submitting to IEEE GRSL!
+# Grid Network: Feature Extraction in Anisotropic Perspective for Hyperspectral Image Classification
 ----------
 ## Zhonghao Chen, Danfeng Hong, Hongmin Gao
 ----------
-The code will be released after our manuscript is accepted.
+The code of the model file is released.
 
 
 
